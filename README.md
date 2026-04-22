@@ -57,7 +57,7 @@ Chatbot_with_Meta_Llm/
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/Chatbot_with_Meta_Llm.git
+git clone https://github.com/Navneet1135/Chatbot_with_Meta_Llm.git
 cd Chatbot_with_Meta_Llm
 ```
 
